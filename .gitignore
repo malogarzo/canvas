@@ -1,0 +1,6 @@
+.DS_Store
+.jhw-cache/
+.sass-cache/
+public
+node_modules/
+index.html

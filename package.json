@@ -1,0 +1,29 @@
+{
+  "name": "canvas",
+  "version": "0.1.0",
+  "description": "Drawing with canvas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "javascript"
+  ],
+  "author": "malogarzo",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
